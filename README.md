@@ -6,7 +6,7 @@
 
 [![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-teal.svg)](https://www.python.org/)
-[![Gemini API](https://img.shields.io/badge/Powered%20by-Gemini%20API-orange.svg)](https://ai.google.dev/)
+
 
 </div>
 
